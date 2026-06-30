@@ -8,16 +8,16 @@
   Building scalable web applications, modern SaaS platforms and cross-platform mobile experiences.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_UPWORK_URL">
+  </a> -->
+  <a href="https://www.upwork.com/freelancers/mominh13?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <!-- <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:mominhassan648@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -91,8 +91,13 @@ A cross-platform mobile application developed with React Native or Flutter, incl
 
 **Technology:** React Native, TypeScript, Firebase, REST APIs
 
-[Live Application](YOUR_LIVE_PROJECT_URL) ·
-[Source Code](YOUR_PROJECT_REPOSITORY_URL)
+[Live Application]((https://apps.apple.com/us/app/buildern/id6444766029)) ·
+[Live Application]([YOUR_LIVE_PROJECT_URL]([https://apps.apple.com/us/app/buildern/id6444766029](https://play.google.com/store/apps/details?id=com.mycompany3.rising))) ·
+[Live Application]([YOUR_LIVE_PROJECT_URL]([https://apps.apple.com/us/app/buildern/id6444766029](https://play.google.com/store/apps/details?id=com.themisbalance))) ·
+[Live Application](https://play.google.com/store/search?q=DoorLoop&c=apps))) ·
+[Live Application](([https://play.google.com/store/apps/details?id=io.fleetx.transporter](https://play.google.com/store/apps/details?id=com.uideas.foodaholix&hl=en))) ·
+[Live Application]([YOUR_LIVE_PROJECT_URL](https://play.google.com/store/apps/details?id=com.chgunay.hgo)) ·
+
 
 ---
 
