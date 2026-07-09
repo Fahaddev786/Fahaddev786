@@ -1,9 +1,6 @@
-# 🌊 Premium GitHub Profile README
-
-```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Momin%20Hassan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Muhammad%20Fahad&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h2>🚀 Senior Full Stack • React Native • Flutter Developer</h2>
 
@@ -15,21 +12,13 @@ Building scalable SaaS Platforms • Enterprise Web Applications • High Perfor
 
 <br><br>
 
-<a href="https://www.upwork.com/freelancers/mominh13?mp_source=share">
-<img src="https://img.shields.io/badge/Hire%20Me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
-</a>
-
-<a href="mailto:mominhassan648@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=muhammad-fahad&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨💻 About Me
 
 I'm a passionate **Full Stack & Mobile Application Developer** focused on building scalable products with modern technologies.
 
@@ -156,15 +145,11 @@ Construction Management Platform
 - Firebase
 - Project Management
 
-🍎 https://apps.apple.com/us/app/buildern/id6444766029
-
 ---
 
 ## 📈 Rising
 
 Android Application
-
-🤖 https://play.google.com/store/apps/details?id=com.mycompany3.rising
 
 ---
 
@@ -172,23 +157,17 @@ Android Application
 
 Android Application
 
-🤖 https://play.google.com/store/apps/details?id=com.themisbalance
-
 ---
 
 ## 🍔 Foodaholix
 
 Food Ordering Platform
 
-🤖 https://play.google.com/store/apps/details?id=com.uideas.foodaholix&hl=en
-
 ---
 
 ## 📲 HGO
 
 Android Application
-
-🤖 https://play.google.com/store/apps/details?id=com.chgunay.hgo
 
 ---
 
@@ -234,7 +213,7 @@ Android Application
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=muhammad-fahad&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -244,9 +223,9 @@ Android Application
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=muhammad-fahad&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=muhammad-fahad&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -254,7 +233,7 @@ Android Application
 
 <p align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fahad&layout=compact&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -264,7 +243,7 @@ Android Application
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-fahad&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -283,21 +262,11 @@ Android Application
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Availability
 
 <p align="center">
 
-<a href="mailto:mominhassan648@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://www.upwork.com/freelancers/mominh13?mp_source=share">
-
-<img src="https://img.shields.io/badge/Available%20on-Upwork-14A800?style=for-the-badge&logo=upwork"/>
-
-</a>
+**Open for Freelance • Contract • Remote Opportunities**
 
 </p>
 
@@ -307,9 +276,8 @@ Android Application
 
 ## ⭐ Building Modern Digital Products That Scale ⭐
 
-**Open for Freelance • Contract • Remote Opportunities**
+**Full Stack • Mobile Apps • SaaS • AI Solutions**
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
-```
